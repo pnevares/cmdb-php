@@ -1,0 +1,17 @@
+.spousesearch_results {
+	font-size: 77%;
+	font-family: Arial;
+	width: 149px;
+	background-color: #dde;
+	border: 1px solid black;
+	position: absolute;
+	opacity: 0.9;
+	display: none;
+}
+
+.spousesearch_results a:hover { background-color: white; border-left: 5px solid green; }
+.spousesearch_results a { color: black; text-decoration: none; }
+.hide { display: none; }
+.show { display: inline; }
+.red { color: red; }
+.matched { font-weight: bold; background-color: white; }

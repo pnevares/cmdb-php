@@ -1,0 +1,7 @@
+table {
+	border: 1px solid #aaa;
+	border-collapse: collapse;
+	background-color: #ffd;
+}
+td, th { padding: 3px; font-size: 9pt; }
+th { font-weight: normal; text-decoration: underline; font-weight: bold; }
