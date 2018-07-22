@@ -11,7 +11,7 @@
 			# pnevares 11-5-2008
 
 			require('_db.php');
-			require('old/_table.php');
+			require('_table.php');
 
 			if($_GET['id']) {
 				if($_GET['mod']) {
