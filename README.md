@@ -1,4 +1,4 @@
-# cmdb-app
+# cmdb-php
 
 A contact management database (from 2008)
 
